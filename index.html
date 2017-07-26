@@ -1,84 +1,401 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
 
 <head>
     <meta charset="utf-8">
-    <base href="http://rishigiri.ml/" />
-    <meta name="author" content="Rishi Giri">
-    <meta name="keywords" content="Rishi, Rishi Giri, Rishi, dotjs, Rishi Giri dotjs, CodeDotJS, Unicorn, JavaScript, Python, Node, Web Development, Web Design, Quora, Github, JavaScript - Python and FOSS Enthusiast, codedotjs." />
-    <meta name="description" content="Web Developer, JavaScript, Python & FOSS Enthusiast." />
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/web-place/rishigiri.in/gh-pages/rishi.png" type="image/x-icon" />
     <title>Rishi Giri</title>
-    <style type="text/css">
-    img {
-        border-radius: 100%;
-        height: 180px;
-        width: 180px;
-        box-shadow: black 0px 0px 10px;
-    }
-    
-    footer {
-        position: absolute;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        padding: 1rem;
-        background-color: #efefef;
-        text-align: center;
-    }
-    
-    header {
-        position: absolute;
-        right: 0;
-        top: 0;
-        left: 0;
-        padding: 1rem;
-        background-color: #efefef;
-        text-align: center;
-    }
-    </style>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/media-queries.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <script src="js/modernizr.js"></script>
+    <link rel="shortcut icon" href="favicon.png">
 </head>
 
 <body>
-    <header><b><code>Rishi Giri<br><br>343237491762eb627f25e0cd02527ac8</code></b></header>
-    <center>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <img src='https://instagram.fpat1-1.fna.fbcdn.net/t51.2885-19//19985711_211391632720396_4278444677071372288_a.jpg'>
-        <br>
-        <h3><a href="https://www.google.co.in/search?q=Rishi+Giri"><b><code>@CodeDotJS</code></b></a></h3>
-        <br>
-        <code> JavaScript, Python, and FOSS Enthusiast. </code>
-        <br>
-        <code> Open Source Addict. </code>
-        <br>
-        <br>
-        <br>
-        <b><code> You can find me on</code> </b>
-        <br>
-        <br>
-        <a href="https://github.com/CodeDotJS"><b><code>GitHub</code></b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://npmjs.com/~rishi"><b><code>npm</code></b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://facebook.com/RishiDotJS"><b><code>Facebook</code></b></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://twitter.com/Rishi_Giri_"><b><code>Twitter</code></b></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://instagram.com/iama_rishi"><b><code>Instagram</code></b></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://quora.com/Rishi-Giri-1"><b><code>Quora</code></b></a>
-        <br>
-        <br>
-        <b><code> I also run a blog </code> </b>
-        <br>
-        <br>
-        <a href="https://rishicodes.wordpress.com"><b><code>RishiCodes</code></b></a>
-        <br>
-        <br>
-        <footer>
-            <code><b>Copyright &copy; 2017 Rishi Giri</b></code>
-        </footer>
-    </center>
+    <!-- Header
+   ================================================== -->
+    <header id="home">
+        <nav id="nav-wrap">
+            <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+            <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+            <ul id="nav" class="nav">
+                <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+                <li><a class="smoothscroll" href="#portfolio">Works</a></li>
+                <li><a class="smoothscroll" href="#about">About Me</a></li>
+            </ul>
+            <!-- end #nav -->
+        </nav>
+        <!-- end #nav-wrap -->
+        <!-- end #nav-wrap -->
+        <div class="row banner">
+            <div class="banner-text">
+                <h1 class="responsive-headline">Rishi Giri</h1>
+                <h3><span>JavaScript, Python, and FOSS Enthusiast. <br> Open Source Addict!</span></h3>
+                <hr />
+                <ul class="social">
+                    <li><a href="https://github.com/CodeDotJS/"><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://instagram.com/iama_rishi"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://twitter.com/Rishi_Giri_"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://facebook.com/RishiDotJS"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://quora.com/Rishi-Giri-1"><i class="fa fa-fw">Q</i></a></li>
+                    <li><a href="https://plus.google.com/u/0/+RishiGiri-Scripted"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="scrolldown">
+            <a class="smoothscroll" href="#portfolio"><i class="icon-down-circle"></i></a>
+        </p>
+    </header>
+    <!-- Portfolio Section
+   ================================================== -->
+    <section id="portfolio">
+        <div class="row">
+            <div class="twelve columns collapsed">
+                <h1>Some of my works</h1>
+                <!-- portfolio-wrapper -->
+                <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-01" title="">
+                        <img alt="" src="http://schah.at/images/public/wallpaper-spaceship.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                                  <h5><center>IMAGE OF</center></h5>                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-02" title="">
+                        <img alt="" src="http://wallpaperscraft.ru/image/krug_krasochnyy_temnyy_fon_63619_2560x1600.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                           <h5><center>SMULE</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-03" title="">
+                        <img alt="" src="http://wallpaper.campus-star.com/app/uploads/2016/10/minimal15.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>QUICK BADGE LINK </center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-04" title="">
+                        <img alt="" src="https://hamdawallpaperz.files.wordpress.com/2014/01/apple-mac.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>INSTAVIM</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-05" title="">
+                        <img alt="" src="http://schah.at/images/public/wallpaper-paper-boat.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>FBDL</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-06" title="">
+                        <img alt="" src="http://minimal-wallpapers.com/wp-content/uploads/2015/09/Glass-rain-minimalist-wallpaper-blue1.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>APOD</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-07" title="">
+                        <img alt="" src="http://minimal-wallpapers.com/wp-content/uploads/2015/09/dandelion-minimalist-wallpaper-dark.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>INSTAFY</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-08" title="">
+                        <img alt="" src="http://icanbecreative.com/resources/files/articles/40-high-resolution-wallpapers-for-minimalist-lovers/sources/Progamer-glasses-minimalist-wallpaper-red.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>XKCD COMICS</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-08" title="">
+                        <img alt="" src="https://s-media-cache-ak0.pinimg.com/originals/48/fa/06/48fa06cac94bc5254c6040ae04ff791e.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+<h5><center>TWIGER</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-08" title="">
+                        <img alt="" src="http://www.wallpapersonly.net/wallpapers/wonders-of-the-universe-1680x1050.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                           <h5><center>KOTE</center></h5> 
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-08" title="">
+                        <img alt="" src="http://minimal-wallpapers.com/wp-content/uploads/2015/09/holy-bulb-minimalist-wallpaper-dark.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                                  <h5>Retrocam</h5>
+                              <p>Web Development</p>
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                    <!-- item end -->
+                    <div class="columns portfolio-item">
+                        <div class="item-wrap">
+                            <a href="#modal-08" title="">
+                        <img alt="" src="http://minimal-wallpapers.com/wp-content/uploads/2015/09/nuclear-minimalist-wallpaper-dark.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                                  <h5>Retrocam</h5>
+                              <p>Web Development</p>
+                               </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- portfolio-wrapper end -->
+            </div>
+            <!-- twelve columns end -->
+            <div id="modal-01" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Coffee Cup</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-01 End -->
+            <div id="modal-02" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Console</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-02 End -->
+            <div id="modal-03" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Judah</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Branding</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-03 End -->
+            <div id="modal-04" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Into the Light</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-04 End -->
+            <div id="modal-05" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Farmer Boy</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-05 End -->
+            <div id="modal-06" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Girl</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-06 End -->
+            <div id="modal-07" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Origami</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-07 End -->
+            <div id="modal-08" class="popup-modal mfp-hide">
+                <img class="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt="" />
+                <div class="description-box">
+                    <h4>Retrocam</h4>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                    <span class="categories"><i class="fa fa-tag"></i>Webdesign, Photography</span>
+                </div>
+                <div class="link-box">
+                    <a href="http://www.behance.net">Details</a>
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+            </div>
+            <!-- modal-01 End -->
+        </div>
+        <!-- row End -->
+    </section>
+    <section id="about">
+        <div class="row">
+            <div class="three columns">
+                <img class="profile-pic" src="https://avatars3.githubusercontent.com/u/9411252?v=3&s=460" alt="" />
+                <br>
+                <a href="https://google.com/search?q=CodeDotJS"><code>&nbsp;&nbsp;@CODEDOTJS </code></a>
+            </div>
+            <div class="nine columns main-col">
+                <h2><code>About Me</code></h2>
+                <code>Hi, I'm a Web Developer and Computer Science student! <br>
+            My goal is to study everything from the Internet and become a really good Programmer.<br>
+            <br>
+            Aaron Swartz is my idol. Also, I'm a huge admirer of Dr. A.P.J Abdul Kalam, Steve Jobs, and Nicola Tesla.
+            <br><br>
+            Apart from coding, I really love taking pictures, playing guitar, and juggling football. Sometimes, I write on my <a href="https://rishicodes.wordpress.com">blog.</a>
+            <br><br>
+            You can drop me an email at : <a href="mailto:"rusforlinux@gmail.com" rel="me">rushforlinux@gmail.com</a>
+            <br><br>
+            <h2><code>Quote (@aaronswartz)</code></h2>
+                <blockquote>I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don’t like excluding people. I’m a perfectionist, but I won’t let that get in the way of publication. Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact. I try to be friends with everyone, but I hate it when you don’t take me seriously. I don’t hold grudges, it’s not productive, but I learn from my experience. I want to make the world a better place.
+                </blockquote>
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end .main-col -->
+        </div>
+    </section>
+    <!-- About Section End-->
+    <!-- Portfolio Section End-->
+    <!-- footer
+   ================================================== -->
+    <footer>
+        <div class="row">
+            <div class="twelve columns">
+                <ul class="copyright">
+                    <li>&copy; Copyright 2017 Rishi Giri</li>
+                </ul>
+            </div>
+            <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+        </div>
+    </footer>
+    <!-- Footer End-->
+    <!-- Java Script
+   ================================================== -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+    window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')
+    </script>
+    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/waypoints.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/init.js"></script>
 </body>
 
 </html>
