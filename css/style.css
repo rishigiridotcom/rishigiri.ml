@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Philosopher);
+
+body {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: hsla(0, 0%, 95%, 1);
+  cursor: move;
+}
