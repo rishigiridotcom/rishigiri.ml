@@ -260,7 +260,8 @@ footer {
 }
 
 #loading {
-    -webkit-animation: rotation 8s infinite linear;
+    -webkit-animation: rotation 6s infinite linear;
+    font-size: 30px;
 }
 
 @media print, screen and (max-width: 480px) {
