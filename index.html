@@ -1,93 +1,27 @@
-<!doctype html>
-<html>
+---
+layout: base
+---
+<div class="wrapper">
+    <header>
+        {% if site.compass.logo %}
+        <div class="logo-container">
+          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+        </div>
+        {% endif %}
 
-<head>
-    <title>Rishi Giri</title>
-    <meta charset="utf-8">
-    <meta name="author" content="Rishi Giri">
-    <meta name="keywords" content="Rishi, Rishi Giri, Rishi, dotjs, iama_rishi, Rishi Giri dotjs, CodeDotJS, Unicorn, JavaScript, Python, Node, Web Development, Web Design, Quora, Github, JavaScript - Python and FOSS Enthusiast, codedotjs." />
-    <meta name="description" content="Web Developer, JavaScript, Python & FOSS Enthusiast." />
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/web-place/rishigiri.in/gh-pages/rishi.png" type="image/x-icon" />
-    <!-- <meta name="theme-color" content="#001f3f"> -->
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="stylesheet" href="assets/stylesheets/styles.css">
-    <link rel="stylesheet" href="assets/stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125012328-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
+        {% if site.compass.author %}
+        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
+        {% endif %}
 
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-125012328-1');
-    </script>
-</head>
-
-<body>
-    <div class="wrapper">
-        <header>
-            <h1>Rishi Giri</h1>
-            <p>JavaScript, Python, and FOSS Enthusiast. Open Source Addict.</p>
-            <!-- <p class="view"><a href=""><small></small></a></p> -->
-            <ul>
-                <li><a href="projects/index.html"><strong>PROJECTS</strong></a></li>
-                <li><a href="blog/index.html"><strong>BLOG</strong></a></li>
-                <li><a href="resume/index.html"><strong>RÉSUMÉ</strong></a></li>
-            </ul>
-            <ul>
-                <li><a href="#"><strong>⌘ </strong></a></li>
-                <li><a href="zen/index.html"><strong>ZEN</strong></a></li>
-                <li><a href="#"><strong> ⌘ </strong></a></li>
-            </ul>
-            <h1 align="center" id="loading"> <a href="zen/index.html"><b><code>࿊</code></b></a></h1>
-        </header>
-        <section>
-            <h1>About me! </h1>
-            <p>Hi, I'm a Computer Science Engineering Student. Although I don't go to any college, I don' think it prevents me from calling myself an Engineering Student. In another way, I'm a dropout, but to be honest, I'm not.</p>
-            <p>I'm really passionate about the <code><b> Web Technologies</b></code>, <code><b>Artifical Intelligence</b></code>, <code><b>Computer Security</b></code>, and <code><b>Open Source</b></code>.</p>
-            <p>There are lots of languages which I've used in the past, but I mostly like to work with <code><b>JavaScript</b></code> and <code><b>Python</b></code>. These are my favorites.</p>
-
-            <!-- Personal thoughts :)
-
-            <p>I admire <b><code>Go</code></b>, <b><code>Erlang</code></b>, and <b><code>Elixir</code></b>. Although I haven't worked a lot with these languages, I understand the power they hold, and in the future, I would love to master them.</p>
-
-        -->
-
-            <p>
-                Apart from the tech part, I love exploring things related to the <b>Social Issues</b>, <b>Philosophy</b>, <b>Politics</b>, <b>Religion</b>, and <b>Psychology</b>. I care about <b>Quality Education</b>.
-            </p>
-            <p>Feel free to drop me a mail at ~
-                <b><code><a href="mailto:rushforlinux@gmail.com" rel="me">rushforlinux@gmail.com</a></code></b>
-            </p>
-            <p>
-                My Public Key is ~ <b><code><a href="https://keybase.io/rishigiri">332F 38BC 7849 158A</a></code></b>
-            </p>
-            <p>You can find me on ~
-                <b><code><a href="https://github.com/CodeDotJS">&nbsp;Github</a></code>,
-                <code><a href="https://npmjs.com/~rishi">&nbsp;npm</a></code>,
-                <code><a href="https://instagram.com/iama_rishi">&nbsp;Instagram</a></code>,
-                <code><a href="https://twitter.com/Rishi_Giri_">&nbsp;Twitter</a></code>,
-                <code><a href="https://medium.com/@JSrishi">&nbsp;Medium</a></code>,
-                <code><a href="https://rishicodes.wordpress.com">Wordpress</a></code>
-                <code><a href="https://facebook.com/RishiDotJS">&nbsp;Facebook</a></code>,
-                <code><a href="https://quora.com/Rishi-Giri-1">&nbsp;Quora</a></code>,</b> and
-                <b><code><a href="https://plus.google.com/u/0/+RishiGiri-Scripted">&nbsp;Google+</a></code></b>
-            </p>
-            <p>
-                Last but not least, I admire <b>Aaron Swartz</b>. He is my idol.
-            </p>
-        </section>
-        <footer>
-            <p>Copyright &copy; 2019 <a href="https://rishi.ml">Rishi Giri</a></p>
-            <p><small>Theme by <a href="https://github.com/orderedlist ">orderedlist</a></small></p>
-        </footer>
-    </div>
-    <script src="assets/javascripts/scale.fix.js "></script>
-</body>
-
-</html>
+        {% if site.compass.tagline %}
+        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
+        {% endif %}
+    </header>
+    <main>
+      {% if site.compass.include_content %}
+      <div class="content">
+        {% include content.html %}
+      </div>
+      {% endif %}
+    </main>
+</div>
