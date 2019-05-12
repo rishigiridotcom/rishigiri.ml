@@ -20,7 +20,7 @@
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="{{ site.compass.tagline }}"/>
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.compass.logo }}"/>
+  <meta property="og:image" content="{{ site.baseurl }}{{ site.compass.logo }}"/> <!-- {{ site.url }} -->
   <meta property="og:description" content="{{ site.compass.description }}"/>
   <meta property="og:site_name" content="{{ site.compass.tagline }}">
 
@@ -35,7 +35,7 @@
   {% endif %}
   <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   <meta name="twitter:description" content="{{ site.compass.description }}">
-  <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ site.compass.logo }}">
+  <meta name="twitter:image:src" content="{{ site.baseurl }}{{ site.compass.logo }}"> <!-- {{ site.url }} -->
 
   {% if site.compass.include_analytics %}
   {% include analytics.html %}
