@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://rishi.ml
   * I am rishigiri (https://keybase.io/rishigiri) on keybase.
-  * I have a public key with fingerprint FB0A B6A6 8777 3A1E 2F83  05EB 332F 38BC 7849 158A
+  * I have a public key ASCpHk-GRV1vL9yAQS5KmmJu_45OlMW7fsEAHfBxAnS7Tgo
 
 To do so, I am signing this object:
 
@@ -14,64 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101e2d297749a42aa653537933a04bd36a165b4ec963c236708a41a98d1ea14f4390a",
-      "fingerprint": "fb0ab6a687773a1e2f8305eb332f38bc7849158a",
       "host": "keybase.io",
-      "key_id": "332f38bc7849158a",
-      "kid": "0101e2d297749a42aa653537933a04bd36a165b4ec963c236708a41a98d1ea14f4390a",
+      "kid": "0120a91e4f86455d6f2fdc80412e4a9a626eff8e4e94c5bb7ec1001df0710274bb4e0a",
       "uid": "56aba050aa9fe773cde34455178c4419",
       "username": "rishigiri"
     },
     "merkle_root": {
-      "ctime": 1530770496,
-      "hash_meta": "3212af0f67bc1476d0adb97c2317e8e43c27bf122c482613eee22735a5687ad5",
-      "seqno": 3201817
-    },
-    "revoke": {
-      "sig_ids": [
-        "aa140313a50ac1bbb1f8c29bc65edf1b102f3bd7907ac49cf23e2405db8cdf840f"
-      ]
+      "ctime": 1560849593,
+      "hash": "ce178bdd278ad652020daa8225000269a67d96e20a8f44ce1a9718cb0cdbefcb593184c5f34b2a9388d4226848562fc56442668734f783ee19ce19b0b2f87d7d",
+      "hash_meta": "16bed4c0f34d914d1e63c3cbffc0e3215ff4924a1a4c7a2f2f6c86d590d26f94",
+      "seqno": 5591721
     },
     "service": {
+      "entropy": "gHfSO2X/06fDsyhxs1YiD5MD",
       "hostname": "rishi.ml",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1530770500,
-  "expire_in": 157680000,
-  "prev": "b62d1a8848f937a1a407ff7694b6c24cc3a08cab538eb6998d38b0352d928c94",
-  "seqno": 13,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1560849603,
+  "expire_in": 504576000,
+  "prev": "e8299341a07aa7ae986c3b38819726c38ce5a83c3ca3f70334b6ca136ae9ff39",
+  "seqno": 27,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.77
-Comment: https://keybase.io/crypto
-
-yMK3AnicrVNdaFxFGN0YbUyCbcBIEK3oLSi2yXb+f7YUJFTEJKJQ9KFNu52ZO3f3
-Jrt7N/feTY0xBlMESakYpJQqBNRKqSBIaY20jUosLZhgIT5EVKiKaEWtT0IxWpwb
-FBV89GmYj/Od75zzzZy/pTnX1tR44aEX917t/LZpcSFp5HZvP7Vj3NORP+YVxr1h
-u3bYim+TtDgc+l7BAxBAi3wkOSdSEaQUo5hiLjFWgGgfMwUZ1cQaybBBmHEgFIFK
-Ch9aBUlAsATK6/aCsFaycT0Oa6mjDTRQmikmOOdYuQmBwIBajTEKsNCGCyIhFVlj
-OUqyDidOq8Tmw8jV3KW4Ju8/8P+z7sYaHWVKK0CBUjKwTrLxLSaEUsiFIQTKDJjY
-uKaq1qHjMCmHpTAOvYlur2rj4YotxlGUZumaNMwwkGLAOSCSOYcqKRerNlWZIQSR
-CkDAuDaQcOYD5WvJnULIrbDEaeU6gAgZIhCD2FqLEMdUUZel8qkTktiRWuQVMAJQ
-QO4UxHY0GrbZ8CQsudwSr7DbU84kwBArZ8pArTUMhEFSG0atH0ANgUtW+1wCrgyR
-JkDYIgKor4XxA0FA4O2ZyIbFo6FZI88W9c8A8tWKU1OPozQyUcVVy2laTwpZJulY
-PYPtt7r4J0FRhzXfPRHXMWrjJIxqLiOH/HdcFIBuzz5ZD2NbDDME5UwAkFXrzqWj
-1Az5UAlBRCAxV1ARwIOAM0k0M4gY49YvjNIUC6uZdOt2zwdginyJhJHk7/wgdjpV
-yXG61GoqbcTWm1j4YPDGXFNbbt1NN2R/J9fW2vHXj5qebFldd/TAe9fDno+3Lnft
-kyubCoPi0R8/2xm9OnC+//f8W5uvbV/6rv3a6ZbGkcdfvndoadWbuevSzucuD958
-9OktZuL+niemDg1NlWZff6Rzpc+rnTl2daCyvmV24cxXK2fzX25qn764LA6WLj3w
-IHp/ct/+/upPvc39Q1uPf7JjvqNn5Y5DHx4Z3Hb2t9nlny/e/c7Cm/zE83vvu33g
-zuMXNvT2fzFS+fqekcfmd7XOtHReOFbcfHJsJp17rdw+0BZc6drSepKOjS8uvXLu
-qdt2bZx/9/uD+Y8e7pr+4dZTp+e+2dA3uVhYfWlq47b1l6mavf75gaG57uaO5ca5
-X9nbv3hXFp+JDn+61LvnWd13+I0/ALBPeds=
-=dsgM
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqR5PhkVdby/cgEEuSppibv+OTpTFu37BAB3wcQJ0u04Kp3BheWxvYWTESpcCG8Qg6CmTQaB6p66YbDs4gZcmw4zlqDw8o/cDNLbKE2rp/znEIDxiIQlaj0STyyzzJo0XLCRJ/KUBD886z6+akEfbvJQ7AgHCo3NpZ8RAikmvxvfiJ2cChnDOCnljQBfa0VeaupDftQnU/iqImbnBLPd6dtLgyO4ix16hDK2YUzZSDJ6eyfiPkp8q9eKsAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGfKx1705yAENlPHGB9UmOoSqQNpvu0blmY2gUwRS+Sro3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
