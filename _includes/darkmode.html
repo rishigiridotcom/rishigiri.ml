@@ -1,0 +1,51 @@
+<style>
+body.dark {
+    background-color: rgb(30, 34, 39);
+    color: #fff;
+}
+
+body.dark a {
+	color:  skyblue;
+}
+
+body.dark h1 {
+	color:  white;
+}
+
+body.dark code[class*=language-],
+body.dark table tbody>tr:nth-child(odd)>td,
+body.dark table tbody>tr:nth-child(odd)>th,
+body.dark {
+    background: #282c34
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+
+</style>
+
+<body class="dark">
+	<p class="darkmode-para">
+	    <a href="#" onclick="localStorage.setItem('mode', (localStorage.getItem('mode') || 'dark') === 'dark' ? 'light' : 'dark'); localStorage.getItem('mode') === 'dark' ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark')" title="Dark/light">🌓</a>
+	</p>
+</body>
+
+<script>
+    localStorage.setItem('mode', (localStorage.getItem('mode') || 'dark') === 'dark' ? 'light' : 'dark');
+    localStorage.getItem('mode') === 'dark' ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark');
+
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        ((localStorage.getItem('mode') || 'dark') === 'dark') ? document.querySelector('body').classList.add('dark'): document.querySelector('body').classList.remove('dark')
+    });
+</script>
