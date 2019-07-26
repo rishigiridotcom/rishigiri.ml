@@ -124,30 +124,49 @@ probably the intestines. My lungs were fine though. Quite surprising hehe!__
 
 ### Update ~ 11th March, 2019
 
-- CT Scan
+I went to a Pathology for the CT scan. What a horrible experience. I mean everything was good when  I was inside the machine which was doing its job, but in the middle of the session, the person who was operating everything injected shit-ton of some cold fluid through a big injection. I had to close my fist extremely hard so that the vein could be visible on the upside. Anyway, for the next 3-4 hours, my hand was in pain, and the body was cold.
+
+I'll get the reports tomorrow. Let's see what happens. Although I'm aware of everything that's going to be in the report, still, I'm kinda afraid. Moreover, the AFT is still left, and I haven't found any decent place which can help me take out the fluid from my abdomen.
 
 
 <br>
 
 ### Update ~ 12th March, 2019
 
-- Taking out fluid from abdomen
-- Getting CT Scan report
-- Issues with CT Scan report
-- Problem assumption
+I spent another day dealing with extreme discomfort. The process for Ascitic Fluid Test was extremely disturbing. Last time when the doctor took out the fluid, he used a different method which wasn't painful, at all. This time, the fluid was taken out with the help of ultrasound and the injection which had big-ass needles.
+
+When the doctor inserted the syringe in my stomach, I could feel the needles breaking my muscles apart. I wasn't allowed to move, even a bit. The worst thing is - it took him multiple attempts to take out the required amount of fluid, which means the syringe was inserted multiples times in my stomach.
+
+Anyway, I got the CT Scan reports today. It says I've Peritoneal Tuberculosis, and there is the formation of cocoons in the pelvic region.
+
+Just another bad day. I'm not sure what else to say, it's almost 11 pm, and things aren't alright.
 
 <br>
 
 ### Update ~ 13th March, 2019
 
+I went to the hospital to show the reports. After checking everything, the doctor said that the tuberculosis is in my Abdomen. He had already said that before, he just wanted to be sure about it.
+
+I've been advised to take 1.5 tablets each day, for the next 12 months. Moreover, I'll need to take the injections for the next 30 days. Bad days for my ass are ahead.
+
 <br>
 
-### Update ~ 18th March, 2019
+### Update ~ 29th March, 2019
+
+It's been 17 days. There is no relief in pain even though I'm regularly taking my medicines and injection. I've to take pain-killers to feel better.
+
+Anyway, I got a call from Nana Ji, and he said that we'll visit the District Hospital tomorrow. Also, I was at one of my friend's home and during a conversation, his father asked me about my health, and I told him everything. He made a few calls to some people for further help and advised me to visit the District Hospital. Let's see what's there for tomorrow...
+
+
+### Update ~ 30th March, 2019
+
+I'm ditching the old medicines. I was afraid to do so, but I'm going for the new ones. The doctor says that new medicines will surely help me. Also,  I'll take three tablets, daily, for the next six months. The medicine course
+
+But thanks to the injections, I'm not even able to sit properly. My health is on it's lowest point. I've lost around 15 kgs.  I hope things get better
+
+Life's a bitch, but I'm grateful that I got one to live.
 
 <br>
-
-### Update ~ 27th March, 2019
-
 <hr>
 
 This is not the end. I'll update the blog if things get better or worse. For now, the only thing I can say is that I never had gone through such pain, and I hope I get better very soon!
