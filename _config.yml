@@ -1,8 +1,8 @@
 # Site settings
 title_left    : "Rishi "
 title_right   : "Giri 🍁" # default: ""
-description   : "Home"
-keywords      : "Rishi Giri, Programmer, Developer, Blog, JavaScript"
+description   : "0.1x Programmer"
+keywords      : "Rishi, Rishi Giri, Giri, iama_rishi, CodeDotJS, DotJS, Rishi-Giri-1, Rishi_Giri_, JavaScript Developer, Programmer"
 url           : "https://rishi.ml" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "https://images.unsplash.com/photo-1497412159286-98933a0e327f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1319&q=80" # image uri like logo/cover image for site seo
