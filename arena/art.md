@@ -19,6 +19,14 @@ title: "Art"
 <br>
 
 <figure>
+	<figcaption>Moon and the River</figcaption>
+	<br>
+	<img class="fimage img-blog" src="/art/6.png" alt="">
+</figure>
+
+<br>
+
+<figure>
 	<figcaption>Night Sky</figcaption>
 	<br>
 	<img class="fimage img-blog" src="/art/2.png" alt="">
