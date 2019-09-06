@@ -23,3 +23,19 @@ title: "Art"
 	<br>
 	<img class="fimage img-blog" src="/art/2.png" alt="">
 </figure>
+
+<br>
+
+<figure>
+	<figcaption>Forest in a Dream</figcaption>
+	<br>
+	<img class="fimage img-blog" src="/art/3.png" alt="">
+</figure>
+
+<br>
+
+<figure>
+	<figcaption>Shadow of Sun</figcaption>
+	<br>
+	<img class="fimage img-blog" src="/art/5.png" alt="">
+</figure>
