@@ -15,6 +15,12 @@ Please follow the links ~
 
 - <a href="{{ '/arena/music' | prepend: site.baseurl | prepend: site.url }}">Music</a>
 
+<br>
+
+__Collection__
+
+- <a href="{{ '/bukowski' | prepend: site.baseurl | prepend: site.url }}">Charles Bukowski's Books</a>
+
 <!--
 
 	- <a href="{{ '/arena/face' | prepend: site.baseurl | prepend: site.url }}">My Weird Faces</a>
