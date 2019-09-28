@@ -3,6 +3,7 @@ layout: post
 title: "Life so far!"
 comments: true
 keywords: "life"
+update: "UPDATE: 28 SEPT, 2019"
 ---
 
 > __This post is primarily a self-note to remind me in future about everything that is currently going wrong with me.__
@@ -164,7 +165,21 @@ I'm ditching the old medicines. I was afraid to do so, but I'm going for the new
 
 But thanks to the injections, I'm not even able to sit properly. My health is on it's lowest point. I've lost around 15 kgs.  I hope things get better
 
-Life's a bitch, but I'm grateful that I got one to live.
+### Update ~ 28st September, 2019
+
+
+On the 21st of September, I got my Ultrasound reports, which stated -
+
+> Thickened bowel loops seen in with small mesenteric lymph nodes. No definite ascetics is seen.
+
+From the reports, I was able to guess that my disease hasn't disappeared yet, even after six months. The good thing - no Ascetic fluid was seen in the abdomen, although the problem in lymph nodes usually gives us the sign that the body is still fighting with some bacteria or virus, in my case, it's Tuberculosis.
+
+Another thing I realised that I'm going to be under medications for a few more months, probably two to three. I still had to speak to the doctor. On 23rd, I went to the hospital with my reports.
+
+After checking my reports,  the doctor said that I'll be under medications for the next three months. I wasn't shocked.
+
+While I'm writing this, I feel frustrated. Not sad, but disappointed. 90 more days. 270 more tablets. 1 more Ultrasound.  I've to wait till 3rd January. There is nothing I can pretend to do, except for waiting and swallowing pills.
+
 
 <br>
 <hr>
