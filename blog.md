@@ -5,6 +5,9 @@ permalink: /blog/
 ---
 
 <br>
+
+- My safe space and quoteblog - __[Damn Right, Internet](https://damnrightinternet.tumblr.com/)__
+
 - I write things and take notes related to my studies here on __[riblog!](https://riblog.ml)__
 
 - For Technical Posts, click __[here!][wordpress-blog]__
@@ -35,4 +38,3 @@ permalink: /blog/
 </section>
 
 [wordpress-blog]: https://rishicodes.wordpress.com
-[damnrightinternet]: https://damnrightinternet.tumbrl.com
