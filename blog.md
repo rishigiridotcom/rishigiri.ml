@@ -6,9 +6,9 @@ permalink: /blog/
 
 <br>
 
-- My safe space and quoteblog - __[Damn Right, Internet](https://damnrightinternet.tumblr.com/)__
+- I write things and take notes related to my studies here on <strong><a href="{{ '/study' | prepend: site.baseurl | prepend: site.url }}">Educate!</a></strong>
 
-- I write things and take notes related to my studies here on __[riblog!](https://riblog.ml)__
+- My safe space and quoteblog - __[Damn Right, Internet](https://damnrightinternet.tumblr.com/)__
 
 - For Technical Posts, click __[here!][wordpress-blog]__
 
