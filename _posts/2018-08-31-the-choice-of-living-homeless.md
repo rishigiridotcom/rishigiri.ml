@@ -635,7 +635,7 @@ My mother opened the door, and the moment she saw me, she had a big smile on her
 <br><center><strong>. . .</strong></center><br>
 
 <br>
-	<img src="https://cdn-images-1.medium.com/max/800/1*Ql5zRK646QRxoo_dSxth6Q.png" alt="day end">
+	<center><img src="https://cdn-images-1.medium.com/max/800/1*Ql5zRK646QRxoo_dSxth6Q.png" alt="day end"></center>
 <br>
 
 I often listen to people saying that they don’t talk about themselves and they don’t share their feelings with everyone, except for one person. I don’t even do that. It’s not my thing, it never was. I’m not proud of it, but there is nothing I can pretend to do. When I started writing this blog, I was unsure to share everything, but for the first time, I let myself do something which I usually don’t prefer to do.
@@ -647,7 +647,3 @@ I travelled, understood, learned, experienced, and observed all different sort o
 In my life, at least now I’m not at the place where I used to be. I wanted to do something different, and I did.
 
 <br><center><strong>. . .</strong></center><br>
-
-<br>
-	<img src="https://cdn-images-1.medium.com/max/800/1*aC4VqeHqNdHX-ajGfIb0Cg.jpeg" alt="thank you">
-<br>
