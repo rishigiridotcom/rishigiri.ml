@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitHub's Student Dev Pack - I Finally Applied"
+title: "GitHub's Student Dev Pack - I'm Finally Applying"
 comments: true
 keywords: "github, student, developer, proposal, request"
 ---
