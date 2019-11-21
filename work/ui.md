@@ -4,7 +4,7 @@ title: User Interface
 ---
 
 <hr>
-<p><strong>NOTE</strong> - THIS PAGE WILL BE FULLY UPDATED BY THE END OF 2019.</p>
+<p><strong>NOTE</strong> - THIS PAGE WILL SOON BE FULLY UPDATED.</p>
 <hr>
 
 <br>
