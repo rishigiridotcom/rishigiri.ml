@@ -1,9 +1,16 @@
 body {
   color: $base-font-color;
-  font-family: $base-font-family;
   //font-feature-settings: "kern", "liga", "pnum";
   font-size: $base-font-size;
   line-height: $base-line-height;
+}
+
+.page-content, .site-footer, mark, nav {
+  font-family: $base-font-family;
+}
+
+.intro, .post-content, .page-content > ul > li {
+  font-family: $post-font-family;
 }
 
 h1,
@@ -88,14 +95,15 @@ blockquote {
 }
 
 code {
+  color: darkslategrey;
   background: none;
   border-radius: 0;
   border: none;
   font-family: "SFMono-Regular",Menlo,Consolas,"Inconsolata",monospace;
   font-size: 1em;
   margin: 0;
-  padding: 0 5px;
-  background-color: lighten($light-gray-color, 13%);
+  padding: 5px;
+  background-color: lighten($light-gray-color, 10%);
 }
 
 pre {
