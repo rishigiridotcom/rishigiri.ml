@@ -101,7 +101,7 @@ code {
   border-radius: 0;
   border: none;
   font-family: "SFMono-Regular",Menlo,Consolas,"Inconsolata",monospace;
-  font-size: 1em;
+  font-size: 18px;
   margin: 0;
   padding: 3px;
   background-color: lighten($light-gray-color, 10%);
@@ -130,10 +130,6 @@ strong {
 
 em {
   font-style: italic;
-}
-
-ul > li {
-  font-size: 1.2em;
 }
 
 ul,
