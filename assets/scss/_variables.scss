@@ -1,8 +1,9 @@
 // Typography
 @import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-@import url('https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya:400,700&display=swap');
 $base-font-family: 'Overpass Mono', monospace;
-$post-font-family: 'Bitter', 'monospace';
+$post-font-family: 'Alegreya', 'monospace';
 $heading-font-family: $base-font-family;
 
 // Font Sizes
