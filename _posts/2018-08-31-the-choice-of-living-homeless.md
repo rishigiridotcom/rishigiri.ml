@@ -43,10 +43,15 @@ In December, I found one of his posts in which he reviewed 70 books. It was ‘T
 I was amazed. Why? It’s not because of just one post in which he mentioned 70 books. There were five other blog posts, each for the different year. I still remember the number of books he read each year.
 
 - In 2006, Aaron read 120 books.
+
 - In 2007, he read 70 books.
+
 - In 2008, he read 132 books.
+
 - In 2009, he read 132 books.
+
 - In 2010, he read 122 books.
+
 - In 2011, he read 70 books.
 
 > Aaron wrote… <br>
