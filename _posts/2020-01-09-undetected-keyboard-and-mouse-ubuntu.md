@@ -98,3 +98,12 @@ I didn't try to read other answers. Wanted to try my luck.
 __Issue Fixed!__
 
 I don't exactly remember, but packages related to `Xorg` were broken. `dpkg` fixed it.
+
+
+<br>
+
+Links
+
+- [Fix - Keyboard not working in Ubuntu](https://techwiser.com/fix-keyboard-not-working-in-ubuntu-18-04/)
+- [Ask Ubuntu - Ubuntu 16.04 freezes on login screen](https://askubuntu.com/questions/837003/ubuntu-16-04-freezes-on-login-screen-no-keyboard-or-mouse-working)
+- [Stack Exchange - Mouse and Keyboard not working - Ubuntu 14.04](https://unix.stackexchange.com/questions/174091/mouse-and-keyboard-not-working-in-ubuntu-14-04)
