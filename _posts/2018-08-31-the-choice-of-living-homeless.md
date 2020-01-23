@@ -2,7 +2,7 @@
 layout: post
 title: "The choice of living homeless"
 comments: true
-description: "the choice of living homeless"
+description: "Reason Towards an Experience"
 keywords: "life, homeless, living, experience"
 ---
 
