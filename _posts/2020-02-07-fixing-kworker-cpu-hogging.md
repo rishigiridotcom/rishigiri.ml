@@ -106,9 +106,7 @@ __NOTE__
 - It's important to `sudo crontab -e` instead of just `crontab -e`. You need to be `root` to update changes in system files.
 
 <br>
-PS - I'm fairly new to these things, but I love experimenting.
 
-<br>
 __Links__
 
 - [ACPI Modules](https://wiki.archlinux.org/index.php/ACPI_modules)
