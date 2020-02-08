@@ -2,7 +2,6 @@
 layout: post
 title: "One More Trip, and Delhi"
 comments: true
-description: "Another trip to Delhi"
 keywords: "life, journey, trip, delhi, travelling"
 ---
 

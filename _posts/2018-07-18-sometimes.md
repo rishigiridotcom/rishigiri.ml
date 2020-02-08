@@ -2,7 +2,6 @@
 layout: post
 title: "Sometimes"
 comments: true
-description: "Sometimes"
 keywords: "life, confusion, thoughts"
 ---
 

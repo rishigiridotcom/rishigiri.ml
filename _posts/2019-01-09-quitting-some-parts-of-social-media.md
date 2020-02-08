@@ -2,7 +2,6 @@
 layout: post
 title: "Quitting Some Parts of Social Media"
 comments: true
-description: "quitting some parts of social media"
 keywords: "new year, life, thoughts, social media"
 ---
 

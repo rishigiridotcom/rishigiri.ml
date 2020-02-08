@@ -2,7 +2,6 @@
 layout: post
 title: "Life, Decisions, and Programming"
 comments: true
-description: "The quick, brown fox jumps over a lazy dog"
 keywords: "life, decisions, programming"
 ---
 

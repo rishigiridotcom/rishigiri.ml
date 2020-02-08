@@ -2,7 +2,6 @@
 layout: post
 title: "A Few Words!"
 comments: true
-description: "a few words"
 keywords: "new year, life, thoughts"
 ---
 
