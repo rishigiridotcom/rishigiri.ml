@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Engineering | Technical Resources"
+title: "Software Engineering"
 comments: true
 keywords: "software engineering, technical, resources"
 ---
