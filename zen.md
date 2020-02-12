@@ -4,7 +4,7 @@ title: Zen
 permalink: /zen/
 ---
 
-Please follow the links ~
+__Please follow the links ~__
 <!-- - <a href="{{ '/arena/weblog' | prepend: site.baseurl | prepend: site.url }}">Weekly Blogs</a> -->
 
 - <a href="{{ '/arena/art' | prepend: site.baseurl | prepend: site.url }}">Art</a>
