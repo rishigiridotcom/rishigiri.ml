@@ -9,7 +9,7 @@ A few days back, I was listening to [Can I Call You Tonight?](https://www.youtub
 
 I liked it so much that I decided to share the song with someone I know, but I didn’t. It made me think - why I wanted to share it, and why I didn’t? There’s a chain of processes involved, so what’s the mental model behind this?
 
-It isn't a complete blog post as I'm still reading different kinds of blog posts and research papers to understand the human psychology behind __why do we share songs__, I'm also trying to understand Human Psychology, in general. 
+It isn't a complete blog post as I'm still reading different kinds of blog/articles and research papers to understand the human psychology so that I can understand the thought process behind __why do we share songs__, I'm also trying to understand Human Psychology, in general. 
 
 I'll put things here in chunks and pieces, so let's see how it goes.
 
