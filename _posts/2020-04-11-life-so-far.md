@@ -228,6 +228,9 @@ My pain hasn't gone yet. I can do nothing but wait. It sucks.
 
 I'll be under medications till the 24th of March. Let's see what happens. I'm not expecting any good or bad news. Just waiting for the day when I get rid of this disease. 
 
+### Update ~ 11th of April, 2020
+
+Writing...
 
 <br>
 
