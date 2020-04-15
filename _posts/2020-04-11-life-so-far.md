@@ -230,8 +230,21 @@ I'll be under medications till the 24th of March. Let's see what happens. I'm no
 
 ### Update ~ 11th of April, 2020
 
-Writing...
+After continuously taking pills for 370 days, I stopped taking medicines on the 28th of March. I always thought it'd be a happy moment and I'll feel different about it, but everything was normal. 
+
+On the other hand, I missed taking meds for a couple of days after lunch. 
+
+__What about the pain in my stomach?__ Well, it hasn't completely gone yet, but due to the complete lockdown and unavailability of the vehicle because of COVID-19 Outbreak, I wasn't able to go for the Ultrasound. 
+
+I think I'm fine, can't say though. I'm not sure, but I feel like I'm fine. I'm hoping this pain will disappear someday, hopefully. I don't want to die because of this goddamn Tuberculosis. That'd be poor sleep.
+
+There are uncertainties, so I can't say much.  Although I never skipped a single day without taking medicine and completed the whole course, I think my disease is gone now. I hope it has.
+
+The reason for pain might be something else. I don't want to google anything, so I'll skip this part.
 
 <br>
+<center> ~ </center>
+<br>
 
-__Please take care of your body.__
+__I'm happy to say that the journey of this blog ends today. There will be no further updates, and I'm genuinely pleased to write it.__
+
