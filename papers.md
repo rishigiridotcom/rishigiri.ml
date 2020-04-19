@@ -18,3 +18,4 @@ Numbers aren't a huge factor here. Sometimes, it takes months to read a paper, a
 - [The Next 700 Programming Languages](http://fsl.cs.illinois.edu/images/e/ef/P157-landin.pdf)
 - [Writing good software engineering research papers](https://dl.acm.org/doi/abs/10.5555/776816.776925)
 - [Dehumanizing Computer Science](https://sci-hub.tw/10.1002/9780470125779.ch3)
+- [Avoiding fights on social media: Strategies youthleverage to navigate conflict in a digital era](https://sci-hub.tw/10.1002/jcop.22363)
