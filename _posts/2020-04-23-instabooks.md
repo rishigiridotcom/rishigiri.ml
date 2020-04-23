@@ -77,8 +77,10 @@ A few anonymous recommendations, as some friends asked me not to share their nam
 - [The Prince](https://www.goodreads.com/book/show/28862.The_Prince) *by* Niccolò Machiavelli
 - [American Psycho](https://www.goodreads.com/book/show/28676.American_Psycho) *by* Bret Easton Ellis
 
+> The God of Small Things was recommended twice!
+
 <br>
 
-There are total twenty-two books, some are pretty heavy, and a few of them are light.  I've heard the names of a couple of them before, on the other hand, to me, a vast majority of them are new. My end goal is to read all the books, and I know it will take a quality amount of time, but I'll do it. 
+There are total twenty-one books, some are pretty heavy, and a few of them are light.  I've heard the names of a couple of them before, on the other hand, to me, a vast majority of them are new. My end goal is to read all the books, and I know it will take a quality amount of time, but I'll do it. 
 
 The good thing is that I won't be asking for book recommendations for a while now. 
