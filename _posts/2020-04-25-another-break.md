@@ -23,8 +23,6 @@ To under this term in a better way, I checked Wikipedia. Although, it has a litt
 
 > In this condition, individuals' actions are bound only by their personal power and conscience. From this shared starting point, social contract theorists seek to demonstrate why a rational individual would voluntarily consent to give up their natural freedom to obtain the benefits of political order.
 
-I'm genuinely serious about giving up on Instagram and limit the use of twitter to minimum. Due to continous complanining and furstration, I quit using Facebook approximately eight months back, and I think the same thing will happen with Instagram, as well. It will take some time, but I'll get there.
-
 I'm extremely serious about giving up on Instagram for a lengthier period and limit the use of twitter to a minimum. Due to continuous complaining and frustration, I quit using Facebook approximately eight months back, and I think the same thing will happen with Instagram, as well. It will take some time, but I'll get there.
 
 I don't hate or dislike any social media platform. I merely want to utilize my time.
