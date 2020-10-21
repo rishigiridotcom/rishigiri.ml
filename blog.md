@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-- This section belongs to the Papers/Journals that I've read or will read. Topics aren't specified. Everything will be mixed, but it's more like a personal collection - <strong><a href="{{ '/papers' | prepend: site.baseurl | prepend: site.url }}">Papers</a></strong>
+<!-- - This section belongs to the Papers/Journals that I've read or will read. Topics aren't specified. Everything will be mixed, but it's more like a personal collection - <strong><a href="{{ '/papers' | prepend: site.baseurl | prepend: site.url }}">Papers</a></strong> -->
 
-- I write things and take notes related to my studies here on <strong><a href="{{ '/study' | prepend: site.baseurl | prepend: site.url }}">Educate!</a></strong>
+<!-- - I write things and take notes related to my studies here on <strong><a href="{{ '/study' | prepend: site.baseurl | prepend: site.url }}">Educate!</a></strong> -->
 
 - My safe space and quoteblog - __[Damn Right, Internet](https://damnrightinternet.tumblr.com/)__
 
