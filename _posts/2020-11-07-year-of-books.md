@@ -159,6 +159,6 @@ A few more books that I came across and skimmed through the pages. They are in m
 
 ---
 
-__In case you come across this post__ - 
+__In case you're reading this__ - 
 
 Don't get intimidated by the number of books. The only reason I could read them is due to the lockdown. I had nothing better to do, and that's why I could explore this dimension. I'm not an avid reader, but as I mentioned earlier - I like the idea of having something read. Nothing more, nothing less. This is where it ends.
