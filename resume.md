@@ -4,7 +4,7 @@ title: Résumé
 permalink: /resume/
 ---
 
-<center><strong>UPDATES COMING SOON!</strong></center>
+<!-- <center><strong>UPDATES COMING SOON!</strong></center> -->
 
 <br>
 
