@@ -97,9 +97,18 @@ Coming to __Albert Camus__, who is one of my favorite philosophers.
 > “Should I kill myself, or have a cup of coffee? But in the end one needs more courage to live than to kill himself.” <br>
 > ― Albert Camus, *A Happy Death*
 
+
 After reading that quote, I was genuinely surprised. I wanted to understand what the writer has to say. I had no reason to interpret it in my way.
 
 One of the things that I've learned in 2019 is when you read something, keep your interpretation aside for the sake of prevention against the absurd relation with your situations and thoughts with what you're reading. I don't want to go into the details, but I might write about it in the upcoming days as to why I don't relate to what I read. Reading does not mean creating a void for yourself.
+
+---
+
+__Important__ : While reading *A Happy Death*, I couldn't find that quote which made me read Camus. It's surprising as the quote is available on [Goodreads](https://www.goodreads.com/quotes/8024099-should-i-kill-myself-or-have-a-cup-of-coffee). If there's a criterion regarding the authentication of quote submission, I'm not aware of it.  However, the availability of the false quote does show the flaw of Goodreads' quote submission process.
+
+- __[Misquoting Camus](https://philosophy.stackexchange.com/questions/68513/did-camus-ever-really-write-should-i-kill-myself-or-have-a-cup-of-coffee)__
+
+---
 
 In 2019, I was aware of who Camus is, but I never really read any of his books. During the lockdown, after wasting half of the month, I thought it would be nice if I read something, I picked *The Myth of Sisyphus* out of nowhere. Later, I read *The Stranger*, *The Fall*, and *The Plague*.
 
