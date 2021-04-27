@@ -54,3 +54,6 @@ Temporary Items
 # Directories of Blog
 _drafts
 .archive
+
+# Metadata
+.jekyll-metadata
