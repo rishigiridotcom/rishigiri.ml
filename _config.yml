@@ -7,7 +7,7 @@ url           : "https://ir8x.me" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "https://images.unsplash.com/photo-1497412159286-98933a0e327f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1319&q=80" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-125012328-1
+google_analytics  : G-E5BXQVYCTS
 twitter_username  : "Rishi_Giri_"
 comments_enabled  : true # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : "rishi-giri"
