@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "https://ir8x.me/assets/images/me.jpg"
+  logo: "images/me.jpg"
   # author will appear under the avatar (optional)
   author: "Rishi Giri"
   # tagline will appear under the title (optional)
