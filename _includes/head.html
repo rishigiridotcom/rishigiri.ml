@@ -1,113 +1,46 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  <script id="dsq-count-scr" src="https://rishi-giri.disqus.com/count.js" async></script>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if site.compass.author %}{{ site.compass.author }} &#8226; {% endif %}{{ site.compass.tagline | strip_html }}</title>
 
-  {% assign page_title = '' %}
-  {% if page.title == "Home" %}
-      {% capture page_title %}
-        {{ site.title_left }}{{ site.title_right }} | {{ site.description }}
-        {%if paginator and paginator.page != 1 %} - {{ paginator.page }}{% endif %}
-      {% endcapture %}
-  {% else %}
-      {% capture page_title %}
-          {%if page.slug == 'category' %}Category: {% endif %}
-          {%if page.slug == 'tag' %}Tag: {% endif %} {{ page.title }} | {{ site.title_left }}{{ site.title_right }}
-      {% endcapture %}
+  <link rel="apple-touch-icon" href="{{ site.baseurl }}{{ site.compass.logo }}"/>
+  <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" />
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+  <meta name="author" content="{{ site.compass.author }}">
+  <meta name="description" content="{{ site.compass.tagline }}"/>
+
+  <!-- Open Graph tags -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="{{ site.compass.tagline }}"/>
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.compass.logo }}"/>
+  <meta property="og:description" content="{{ site.compass.description }}"/>
+  <meta property="og:site_name" content="{{ site.compass.tagline }}">
+
+  <!-- Twitter Card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ site.compass.tagline }}">
+  {% if site.twitter.site %}
+  <meta name="twitter:site" content="{{ site.twitter.site }}">
   {% endif %}
-  {% capture page_title %}
-      {{ page_title | strip | rstrip | lstrip | escape | strip_newlines }}
-  {% endcapture %}
-
-  <title>{{ page_title }}</title>
-
-  {% assign page_description = '' %}
-  {% capture page_description %}
-      {% if page.description %}
-          {{ page.description | strip_html | strip | rstrip | strip_newlines | truncate: 160 }}
-      {% else %}
-          {{ site.description }}
-      {% endif %}
-      {%if paginator and paginator.page != 1 %} - {{ paginator.page }} {% endif %}
-      {%if page.slug == 'category' %} Category: {{ page.title }}{% endif %}
-      {%if page.slug == 'tag' %} Tag: {{ page.title }}{% endif %}
-  {% endcapture %}
-
-  {% capture page_description %}
-      {{ page_description | strip | rstrip | lstrip | escape | strip_newlines }}
-  {% endcapture %}
-
-  <meta name="description" content="0.1x Programmer. Mostly into Computer Science and Education.">
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
-
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-
-  {% assign page_image = '' %}
-  {% capture page_image %}
-      {% if page.cover %}
-          {{ page.cover | prepend: site.baseurl | prepend: site.url }}
-      {% else %}
-          {{ site.cover | prepend: site.baseurl | prepend: site.url }}
-      {% endif %}
-  {% endcapture %}
-  {% capture page_image %}{{ page_image | strip | rstrip | lstrip | escape | strip_newlines }}{% endcapture %}
-
-  <!-- Social: Facebook / Open Graph -->
-{% if page.id %}
-  <meta property="og:type" content="article">
-  <meta property="article:author" content="{{ site.author.name }}">
-  <meta property="article:section" content="{{ page.categories | join: ', ' }}">
-  <meta property="article:tag" content="{{ page.keywords }}">
-  <meta property="article:published_time" content="{{ page.date }}">
-{% else%}
-  <meta property="og:type" content="website">
-{% endif %}
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:title" content="{{ page_title }}">
-  <meta property="og:image" content="{{ page_image }}">
-  <meta property="og:description" content="{{ page_description }}">
-  <meta property="og:site_name" content="{{ site.author.name }}">
-  <meta property="og:locale" content="en_US">
-
-  <!-- Social: Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="{{ site.twitter_username }}">
-  <meta name="twitter:title" content="{{ page_title }}">
-  <meta name="twitter:description" content="{{ page_description }}">
-  <meta name="twitter:image:src" content="{{ page_image }}">
-
-  <!-- Social: Google+ / Schema.org  -->
-  <meta itemprop="name" content="{{ page_title }}">
-  <meta itemprop="description" content="{{ page_description }}">
-  <meta itemprop="image" content="{{ page_image }}">
-
-  <!-- Canonical link tag -->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title_left }}{{ site.title_right }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
-  <!-- rel prev and next -->
-  {% if paginator.previous_page %}
-    <link rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | prepend: site.url }}">
+  {% if site.twitter.creator %}
+  <meta name="twitter:creator" content="{{ site.twitter.creator }}">
   {% endif %}
-  {% if paginator.next_page %}
-    <link rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <meta name="twitter:description" content="{{ site.compass.description }}">
+  <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ site.compass.logo }}">
+
+  {% if site.compass.include_analytics %}
+  {% include analytics.html %}
   {% endif %}
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
+<meta name="theme-color" content="#F1EED9">
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E5BXQVYCTS"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-E5BXQVYCTS');
-  </script>
 </head>
