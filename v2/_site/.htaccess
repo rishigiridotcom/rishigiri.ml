@@ -1,5 +1,0 @@
-<IfModule mod_headers.c>
-<FilesMatch ".(js|css|xml|gz|html)$">
-Header append Vary: Accept-Encoding
-</FilesMatch>
-</IfModule>

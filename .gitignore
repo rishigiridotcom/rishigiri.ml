@@ -54,6 +54,7 @@ Temporary Items
 # Directories of Blog
 _drafts
 .archive
+.vercel
 
 # Metadata
 .jekyll-metadata
