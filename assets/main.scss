@@ -111,6 +111,15 @@ footer {
 }
 
 /*** media queries ***/
+
+@media (min-width: 280px) {
+	/* wrapper stays 480px wide past 480px wide and is kept centered */
+	.main-list {
+		width: 380px;
+		margin: 10% auto 0 auto;
+	}
+}
+
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
